@@ -1,19 +1,22 @@
-#### Introduction and Working with Strings
+### Introduction and Working with Strings
 ---
 document.Document.java
 document.BasicDocument.java
 
-#### Efficiency Analysis and Benchmarking
+
+### Efficiency Analysis and Benchmarking
 ---
 document.EfficientDocument.java
 
-#### Interfaces, Linked Lists vs. Arrays, and Correctness
+
+### Interfaces, Linked Lists vs. Arrays, and Correctness
 ---
 textgen.MyLinkedList*.java
 textgen.MarkovTextGenerator.java
 textgen.MarkovTextGenerator*.java
 
-#### Trees! (including Binary Search Trees and Tries)
+
+### Trees! (including Binary Search Trees and Tries)
 ---
 spelling.SpellingSuggest.java
 spelling.AutoComplete.java
@@ -22,13 +25,15 @@ spelling.Dictionary*.java
 spelling.AutoCompleteDictionaryTrie.java
 spelling.TrieNode.java
 
-#### Hash Maps and Edit Distance
+
+### Hash Maps and Edit Distance
 ---
 spelling.WordPath.java
 spelling.NearbyWords.java
 spelling.WPTree.java
 
-#### SETUP
+
+### SETUP
 ---
 Importing Project into eclipse:
 	1. Create a new Java Project in your workspace
