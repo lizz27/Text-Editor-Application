@@ -16,7 +16,7 @@
 + textgen.MarkovTextGenerator*.java
 
 
-### Trees! (including Binary Search Trees and Tries)
+### Trees (Binary Search Trees and Tries)
 ---
 + spelling.SpellingSuggest.java
 + spelling.AutoComplete.java
@@ -35,7 +35,7 @@
 
 ### SETUP
 ---
-Importing Project into eclipse:
+Importing Project into Eclipse:
 
 1. Create a new Java Project in your workspace
 2. Import the starter files:
