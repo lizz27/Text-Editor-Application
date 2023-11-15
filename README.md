@@ -4,6 +4,13 @@
 
 https://github.com/lizz27/Text-Editor-Application/assets/99926165/bd31c41d-4299-4a30-9ccb-fe6d1c93c363
 
+**Word Path**
+
+https://github.com/lizz27/Text-Editor-Application/assets/99926165/dd3fdb66-fadc-498e-b448-f7f3cee639b6
+
+
+
+
 
 ### Introduction and Working with Strings
 ---
