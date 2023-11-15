@@ -12,6 +12,9 @@ https://github.com/lizz27/Text-Editor-Application/assets/99926165/83c85707-cfc8-
 
 https://github.com/lizz27/Text-Editor-Application/assets/99926165/c0ef0143-ad69-4e5f-9d3a-a875f32c70b9
 
+**Spelling Suggestions**
+
+https://github.com/lizz27/Text-Editor-Application/assets/99926165/4e089944-37bb-4466-8073-3a96b1cf4fc9
 
 
 ### Introduction and Working with Strings
