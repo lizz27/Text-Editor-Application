@@ -6,9 +6,7 @@ https://github.com/lizz27/Text-Editor-Application/assets/99926165/bd31c41d-4299-
 
 **Word Path**
 
-https://github.com/lizz27/Text-Editor-Application/assets/99926165/dd3fdb66-fadc-498e-b448-f7f3cee639b6
-
-
+https://github.com/lizz27/Text-Editor-Application/assets/99926165/83c85707-cfc8-477e-8347-8575efef4154
 
 
 
