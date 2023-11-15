@@ -1,3 +1,10 @@
+### Demo
+---
+**Flesch Index**
+
+https://github.com/lizz27/Text-Editor-Application/assets/99926165/bd31c41d-4299-4a30-9ccb-fe6d1c93c363
+
+
 ### Introduction and Working with Strings
 ---
 + document.Document.java
