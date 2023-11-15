@@ -8,6 +8,10 @@ https://github.com/lizz27/Text-Editor-Application/assets/99926165/bd31c41d-4299-
 
 https://github.com/lizz27/Text-Editor-Application/assets/99926165/83c85707-cfc8-477e-8347-8575efef4154
 
+**Markov Text**
+
+https://github.com/lizz27/Text-Editor-Application/assets/99926165/c0ef0143-ad69-4e5f-9d3a-a875f32c70b9
+
 
 
 ### Introduction and Working with Strings
